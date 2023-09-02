@@ -25,5 +25,6 @@ I tried to ind out the actual TPS for if 120000 user can give load for 12 hour P
 ## HTML Report ScreenShot:
 ![screencapture-file-D-SQA-Random-User-Performance-Test-Reports-index-html-2023-09-02-21_35_10](https://github.com/rabbypathan/Random_User_Performance_Testing_JMeter/assets/70917088/7cd942fb-cbe2-4504-80f5-1f996cc03739)
 
-
+## Load & Stress Test Strategy Excel File:
+https://docs.google.com/spreadsheets/d/1Hy9Oh0TL5qI8uFIYwLBac6GpHZFB-W90/edit?usp=sharing&ouid=110702046156209050041&rtpof=true&sd=true
 
