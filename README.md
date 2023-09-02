@@ -12,6 +12,10 @@ I tried to ind out the actual TPS for if 120000 user can give load for 12 hour P
 ## Prerequisites
 - jdk
 
+## How to run this project
+- Clone this project
+- Run the .jmx file on jmeter
+
 ## Screenshot of Load Test Strategy:
 ![load1](https://github.com/rabbypathan/Random_User_Performance_Testing_JMeter/assets/70917088/e4a9bf9e-a63d-417d-9c7a-ebc785106652)
 
@@ -19,6 +23,7 @@ I tried to ind out the actual TPS for if 120000 user can give load for 12 hour P
 ![stress1](https://github.com/rabbypathan/Random_User_Performance_Testing_JMeter/assets/70917088/cdf533ae-621c-414f-9b94-0b95d3b96493)
 
 ## HTML Report ScreenShot:
-![Uploading screencapture-file-D-SQA-Random-User-Performance-Test-Reports-index-html-2023-09-02-21_35_10.png…]()
+![screencapture-file-D-SQA-Random-User-Performance-Test-Reports-index-html-2023-09-02-21_35_10](https://github.com/rabbypathan/Random_User_Performance_Testing_JMeter/assets/70917088/7cd942fb-cbe2-4504-80f5-1f996cc03739)
+
 
 
