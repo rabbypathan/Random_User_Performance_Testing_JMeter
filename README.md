@@ -7,7 +7,7 @@ I tried to ind out the actual TPS for if 120000 user can give load for 12 hour P
 - I have to Create an excel sheet where I have to try to find out the bottleneck/stress test point. (At which point the system starts to show 1% error)
 
 ## Tools & Technology Used
-- JMETER
+- JMeter
 
 ## Prerequisites
 - jdk
