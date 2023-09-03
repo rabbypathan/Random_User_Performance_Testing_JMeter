@@ -20,8 +20,7 @@ I tried to ind out the actual TPS for if 120000 user can give load for 12 hour P
 ![load1](https://github.com/rabbypathan/Random_User_Performance_Testing_JMeter/assets/70917088/e4a9bf9e-a63d-417d-9c7a-ebc785106652)
 
 ## Screenshot of Stress Test Strategy:
-![stress new](https://github.com/rabbypathan/Random_User_Performance_Testing_JMeter/assets/70917088/9201f0f0-3ead-4bbf-861c-1d9212d3cc50)
-
+![stress new](https://github.com/rabbypathan/Random_User_Performance_Testing_JMeter/assets/70917088/88904281-173e-4ab3-8108-ababfabd53b5)
 
 ## HTML Report ScreenShot:
 ![screencapture-file-D-SQA-Random-User-Performance-Test-Reports-index-html-2023-09-02-21_35_10](https://github.com/rabbypathan/Random_User_Performance_Testing_JMeter/assets/70917088/7cd942fb-cbe2-4504-80f5-1f996cc03739)
