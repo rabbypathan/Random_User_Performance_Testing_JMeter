@@ -1,4 +1,4 @@
-# Random_User_Performance_Testing_JMeter
+# Random User Performance Testing JMeter
 
 ## About this Project
 I tried to find out the actual TPS for if 120000 user can give load for 12 hour Perform load test on this URL: https://random-data-api.com/api/v2/users
